@@ -188,10 +188,12 @@ class Hello(object):
     <body onload="brython()">
         
     <form method=POST action=mygeartest>
-    <p>學號:40223229 姓名:許家瑜
+    <p>2015cdb_g9 團隊成果
     <p>齒數:
     <select name=N>
     <option>10
+    <option>15
+    <option>18
     <option>20
     <option>24
     <option>25
