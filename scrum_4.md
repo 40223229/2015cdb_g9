@@ -10,5 +10,4 @@
 3 .Change user of Commits 磁碟V -> home -> .gitconfig -> 拉進SciTE編輯 -> 改為你 github 帳號對應email
 
 4 .更改完後，Commits 的記綠就是你所設定的用戶
-
 鄭羽
